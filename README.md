@@ -11,7 +11,9 @@
 
 
 ### My projects:
-- [Interactive rating component](https://mrdalmatov.github.io/interactive-rating-component/) First solution from Frontend Mentor website
+- <a href="https://mrdalmatov.github.io/interactive-rating-component/" target="_blank">Interactive rating component</a>
+
+
 <!--
 **MrDalmatov/MrDalmatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
