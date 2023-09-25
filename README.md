@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
+
+### My projects:
+- [Interactive rating component](https://mrdalmatov.github.io/interactive-rating-component/) First solution from Frontend Mentor website
 <!--
 **MrDalmatov/MrDalmatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
