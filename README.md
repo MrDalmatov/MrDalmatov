@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1hb3E2cnlsbmpzNTl2YmUyejJjZHo3d3FibjQzMXlsZ2hzZzF5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="300"/> 
   <div id="badges">
@@ -12,7 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=MrDalmatov&style=flat-square&color=blue" alt="" align="center"/>
 </div>
 
----
+#
+
 #### About me:
 <div align="center"><img src="https://github.com/MrDalmatov/MrDalmatov/assets/93470178/44c63f15-ce70-41b9-ab0b-0cd3012540ad" alt="" width="500px"></div>
 
@@ -20,7 +20,7 @@
 - :camera: I am a front-end developer from Siberia. In my free time I enjoy film photography, gardening and basketball.
 - :email: How to reach me: RodionAT93@gmail.com
 
----
+#
 
 #### :hammer: Language and tools:
 
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
 </div>
 
----
+#
 
 #### My projects:
 - <a href="https://mrdalmatov.github.io/interactive-rating-component/" target="_blank">Interactive rating component</a>
