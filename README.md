@@ -42,6 +42,7 @@
 
 #### My projects:
 - <a href="https://mrdalmatov.github.io/interactive-rating-component/" target="_blank">Interactive rating component</a>
+- <a href="https://mrdalmatov.github.io/calculator/" target="_blank">Simple Calculator</a>
 
 
 <!--
